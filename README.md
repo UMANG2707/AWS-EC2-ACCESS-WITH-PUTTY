@@ -23,18 +23,18 @@ How to access AWS EC2 ubuntu instances using PuTTY.
 - You can edit the name of instances.
 - For edit the name of instance click on pen sign which is in Name column.
 
-### 2. Download and Install PuTTY.
+### step 2 Download and Install PuTTY.
 - For Download PuTTY open link given below.
  ##### https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 - Now, Download PuTTY installer.
 - After that install PuTTY.
 
-### 3. Generate Key using PuTTYgen.
+### step 3 Generate Key using PuTTYgen.
 - Open PuTTYgen.
 - Load Keypair file which we have download.(keypair.pen)
 - Save Private key (.ppk file).
 
-### 4. Connect to the instance.
+### step 4 Connect to the instance.
 - Open PuTTY.
 - Select Private IPV4 of instance.
 - Give that ip as host.
