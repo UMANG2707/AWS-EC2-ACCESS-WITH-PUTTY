@@ -89,15 +89,36 @@ How to access AWS EC2 ubuntu instances using PuTTY.
 
 <img width="572" alt="2020-04-03 (19)" src="https://user-images.githubusercontent.com/48994342/78327810-58e4ed00-759b-11ea-94d3-f217dc8be7b3.png">
 
-- Select Private IPV4 of instance.
+- Select public IPV4 of instance.
 
 <img width="813" alt="2020-04-03 (20)" src="https://user-images.githubusercontent.com/48994342/78327825-5c787400-759b-11ea-961c-d135c7d00d29.png">
 
 - Give that ip as host.
 
+<img width="331" alt="2020-04-03 (21)" src="https://user-images.githubusercontent.com/48994342/78329063-5932b780-759e-11ea-9d2b-0bd09aa88ef1.png">
+
+- Save this session data to any session variable.
+
+<img width="325" alt="2020-04-03 (22)" src="https://user-images.githubusercontent.com/48994342/78329066-5afc7b00-759e-11ea-8bdc-5fe022f7e06a.png">
 
 - Click on Connection -> SSH -> Auth.
+
+<img width="328" alt="2020-04-03 (25)" src="https://user-images.githubusercontent.com/48994342/78329071-5d5ed500-759e-11ea-81d5-42530fc51303.png">
+
 - Browse that private key file which we have generated using PuTTYgen.
 - Click on Open.
 
+<img width="335" alt="2020-04-03 (26)" src="https://user-images.githubusercontent.com/48994342/78329122-7f585780-759e-11ea-9478-6288294ba67a.png">
+
+
+
 ##### Now you can access your instace.
+
+<img width="530" alt="2020-04-03 (28)" src="https://user-images.githubusercontent.com/48994342/78329138-854e3880-759e-11ea-9610-85cf71d69e92.png">
+
+#### For Terminate Instance 
+- Select that instance -> Actions -> Insance state -> Terminate.
+<img width="960" alt="2020-04-03 (29)" src="https://user-images.githubusercontent.com/48994342/78329146-897a5600-759e-11ea-8215-fe0cee7da8f3.png">
+
+- Yes,Terminate
+<img width="960" alt="2020-04-03 (30)" src="https://user-images.githubusercontent.com/48994342/78329153-8e3f0a00-759e-11ea-85ba-edc7ecbda66f.png">
