@@ -12,6 +12,9 @@ How to access AWS EC2 ubuntu instances using PuTTY.
 - Login to AWS Educate Account.
 - Go to the services and click on EC2.
 - Click on launch Instance.
+
+<img width="960" alt="2020-04-03 (1)" src="https://user-images.githubusercontent.com/48994342/78326131-305af400-7597-11ea-955e-8b27a8fd1004.png">
+
 - Select an Amazone Machine Image as Ubuntu Server 16.04.
 - Choose an instance type t2.micro (Which is free).
 - Click on Launch.
